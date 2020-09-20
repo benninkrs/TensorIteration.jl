@@ -1,0 +1,4 @@
+name = "TensorIteration"
+uuid = "b016ec85-7b3f-4edf-ae3d-c3296f8386c1"
+authors = ["Ryan Bennink <benninkrs@ornl.gov>"]
+version = "0.1.0"
